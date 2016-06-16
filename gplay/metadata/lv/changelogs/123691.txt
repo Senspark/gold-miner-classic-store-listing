@@ -1,0 +1,4 @@
+- Skaties video, lai spin laimīgo riteni.
+- Watch video apbalvoti zelta stieņi palielināsies no 3 līdz 10.
+- Install veicināšana spēle apbalvoti zelta stieņi palielināsies no 3 līdz 100.
+- Kļūdu labojumi un veiktspējas uzlabojumi.

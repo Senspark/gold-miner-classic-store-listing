@@ -1,0 +1,4 @@
+- Pogledajte video vrtjeti sretan kotača.
+- Pogledajte video nagrađeni zlatnih poluga povećati od 3 do 10.
+- Instalacija promocija igra nagrađeni zlatnih poluga povećati od 3 do 100.
+- Bug popravci i poboljšanja performansi.

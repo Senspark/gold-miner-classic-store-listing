@@ -1,0 +1,4 @@
+- Vaata videot spin vedanud ratast.
+- Vaata videot premeerida kuldplaadid suurendada 3-10.
+- Paigaldage edendamise mängu premeerida kuldplaadid suurendada 3-100.
+- Vika ja toimivustäiustust.

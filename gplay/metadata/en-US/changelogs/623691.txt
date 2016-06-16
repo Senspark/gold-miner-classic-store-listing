@@ -1,0 +1,4 @@
+- Watch video to spin lucky wheel.
+- Watch video rewarded gold bars increase from 3 to 10.
+- Install promotion game rewarded gold bars increase from 3 to 100.
+- Bug fixes and performance improvements.

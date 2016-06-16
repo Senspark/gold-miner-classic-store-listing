@@ -1,0 +1,4 @@
+- Tonton untuk memutar roda keberuntungan.
+- Tonton dihargai emas batangan meningkat dari 3 hingga 10.
+- Instal promosi permainan dihargai emas batangan meningkat 3-100.
+- Perbaikan bug dan peningkatan kinerja.

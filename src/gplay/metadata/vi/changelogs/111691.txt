@@ -1,0 +1,4 @@
+- Xem video để quay bánh xe may mắn.
+- Xem video thưởng sẽ được tăng 10 vàng thỏi (cũ là 3).
+- Cài đặt trò chơi sẽ được tặng 100 vàng thỏi (cũ là 3).
+- Sửa lỗi và cải thiện hiệu suất.

@@ -1,0 +1,4 @@
+- Katso video pyöräyttää onnekas pyörää.
+- Katso video palkitaan kultaharkkojen kasvaa 3-10.
+- Asenna edistäminen peli palkitaan kultaharkkojen kasvaa 3-100.
+- Virheenkorjauksia ja suorituskyvyn parannuksia.

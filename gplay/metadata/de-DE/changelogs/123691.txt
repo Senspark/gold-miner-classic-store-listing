@@ -1,0 +1,4 @@
+- Video Glücksrad zu drehen.
+- Video belohnt Goldbarren erhöhen von 3 bis 10.
+- Förderung Spiel belohnt Goldbarren erhöhen von 3 bis 100 Installieren.
+- Fehlerbehebungen und Leistungsverbesserungen.

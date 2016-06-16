@@ -1,0 +1,4 @@
+- Žiūrėti vaizdo suktis laimingąjį ratą.
+- Žiūrėti vaizdo apdovanoti aukso luitai padidinti nuo 3 iki 10.
+- Įdiekite skatinimas žaidimų apdovanoti aukso luitai padidinti nuo 3 iki 100.
+- Klaidų pataisymai ir veiklos patobulinimų.
