@@ -4,6 +4,6 @@
 import sys
 import os, os.path
 
-cmd = "../../app-stores-toolkit/populate.py metadata -platform android -prj-path . -data-file-path ../src/goldminer-metadata-translate.xlsx -customized-metadata-path ../src/gplay/metadata"
+cmd = "../../app-stores-toolkit/populate.py metadata -platform android -prj-path gplay -data-file-path src/goldminer-metadata-translate.xlsx -customized-metadata-path src/gplay/metadata"
 print cmd
 os.system(cmd)
