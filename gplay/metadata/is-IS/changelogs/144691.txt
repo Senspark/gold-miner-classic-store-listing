@@ -1,4 +1,0 @@
-- Horfa á myndskeið til að snúast heppinn hjól.
-- Horfa á myndskeið verðlaunaður gull bars aukast frá 3 til 10.
-- Setja stöðuhækkun leikur verðlaunaður gull bars aukast frá 3 til 100.
-- Villuleiðréttingar og aukin afköst.

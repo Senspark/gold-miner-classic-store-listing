@@ -1,4 +1,0 @@
-- Guarda il video per lo slittamento delle ruote fortunato.
-- Guarda il video lingotti d'oro premiati aumentare da 3 a 10.
-- Installare il gioco promozione lingotti d'oro premiati aumentano 3-100.
-- Correzioni di bug e miglioramenti delle prestazioni.

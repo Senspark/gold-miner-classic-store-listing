@@ -1,4 +1,0 @@
-- Bekijk de video om geluk wiel te draaien.
-- Bekijk video beloond goudstaven te verhogen 3-10.
-- Installeer promotie spel beloond goudstaven te verhogen 3-100.
-- Bug fixes en prestatieverbeteringen.

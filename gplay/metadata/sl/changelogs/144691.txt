@@ -1,4 +1,0 @@
-- Oglejte si video vrteti srečen kolo.
-- Watch video nagrajeni zlatih palic povečala od 3 do 10.
-- Namestite promocija igre nagrajeni zlatih palic povečala od 3 do 100.
-- Popravki napak in izboljšave uspešnosti.

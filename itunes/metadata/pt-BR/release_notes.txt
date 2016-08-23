@@ -1,4 +1,0 @@
-- Assista o vídeo para girar da roda da sorte.
-- Assista vídeo recompensados barras de ouro aumentar 3-10.
-- Instalar a promoção de jogos premiados barras de ouro aumentar 3-100.
-- Correções de bugs e melhorias de desempenho.

@@ -1,4 +1,0 @@
-- Se video for å spinne heldig hjulet.
-- Se video belønnet gullbarrer øke 3-10.
-- Installer promotion spillet belønnet gullbarrer øke 3-100.
-- Feilrettinger og ytelsesforbedringer.

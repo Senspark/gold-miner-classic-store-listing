@@ -1,4 +1,0 @@
-- Panoorin ang video sa magsulid masuwerteng wheel.
-- Panoorin ang video gagantimpalaan ginto bar dagdagan mula 3 hanggang 10.
-- I-install promotion game gagantimpalaan ginto bar dagdagan mula sa 3 sa 100.
-- Pag-aayos ng bug at pagpapahusay sa pagganap.

@@ -1,4 +1,0 @@
-- Ver vídeo para hacer girar la rueda de la suerte.
-- Ver vídeo barras de oro premiadas aumentan de 3 a 10.
-- Instalación de juego promoción barras de oro premiadas aumentan de 3 a 100.
-- Corrección de errores y mejoras de rendimiento.
