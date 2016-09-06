@@ -4,6 +4,6 @@
 import sys
 import os, os.path
 
-cmd = "../../app-stores-toolkit/populate.py metadata -platform android -prj-path . -data-file-path ../src/goldminer-metadata-translate.xlsx -customized-metadata-path ../src/gplay/metadata"
+cmd = "../../store-listing-toolkit/populate-v2.py metadata -platform android -prj-path . -sheet 1f8JS4pz6xhCTWdnqNUmpbYyvvt95dBUqmf6xj_rG2a0 -customized-metadata-path ../src/gplay/metadata"
 print cmd
 os.system(cmd)
