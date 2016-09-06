@@ -1,4 +1,0 @@
-- Videó forogni szerencsés kerék.
-- Videó jutalmazzák aranyrudat növelni 3-10.
-- Install promóciós játék jutalmazták arany rúd növeli 3-100.
-- Bug javítások és teljesítménybeli fejlesztéseket.

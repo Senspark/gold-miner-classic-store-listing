@@ -1,4 +1,0 @@
-- Veure vídeo per fer girar la roda de la sort.
-- Veure vídeo barres d'or premiades augmenten de 3 a 10.
-- Instal·lació de joc promoció barres d'or premiades augmenten de 3 a 100.
-- Correcció d'errors i millores de rendiment.

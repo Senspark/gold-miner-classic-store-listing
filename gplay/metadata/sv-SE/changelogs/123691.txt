@@ -1,4 +1,0 @@
-- Se video att snurra tur hjulet.
-- Se video belönas guldtackor ökar från 3 till 10.
-- Installera främjande spel belönas guldtackor ökar från 3 till 100.
-- Felkorrigeringar och prestandaförbättringar.
