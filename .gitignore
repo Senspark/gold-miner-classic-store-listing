@@ -7,3 +7,7 @@ itunes/metadata/*.txt
 .json
 gplay/metadata/
 itunes/metadata/
+Preview.html
+itunes/backup
+src/gplay
+src/itunes
