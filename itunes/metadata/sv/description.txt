@@ -1,40 +1,35 @@
-Guld, diamanter och dynamit? Det stämmer, du är en guldgrävare och det är ditt jobb att bryta så mycket guld som du kan och komma ut med mest pengar. Är du redo?
+Gold miner, även kallad Gold Rush spel är en avslappnad klassiskt spel som gjort dig beroende när du spelar.
 
-Denna Gold miner spel är exakt densamma som den som finns online-versionen!
+Guld, diamanter och dynamit? Just det, du är en Goldminer och det är ditt jobb att bryta så mycket guld som du kan och komma ut med mest pengar. Är du redo? Dags att Goldrush!
+
+Denna Gold Miner, guldrushen spelet, är exakt densamma som den tillgängliga online-version! Klasik klassiska klassiska spelet är alltid bäst! old school super klassiska guldgrävare spel
+
+Gameplay:
+Utnyttja din klo och rulle att bryta guld och olika förmögenheter ur jorden. Din claw kommer att svänga framåt och bakåt. Tryck skärmen för att sänka den. När den har gripit något kommer det att rulla upp. Överväldigande objekt som stenar och stora bitar av guld kommer att bli svårare att rulla upp. Få påsar innehåller godtyckliga mängder kontanter, en styrka power-up eller en pinne av dynamit. Mellan nivåerna kan du köpa saker som kan hjälpa dig.
+
+Mus, sten, skalle, ben är obevekliga hinder mot dig att gräva och ta. Guldpriset, Diamond pris, sten pris och andra föremål pris väntar du upptäckt
+
+Samla målet summa pengar före slutet av nivån. På off chans att du inte uppfyller ditt mål före slutet av nivån är det game over. Din kassa fortsätter börjar med en nivå sedan på nästa.
+
+På off chans att du oavsiktligt exploderar allt på en nivå eller om du bara har ett sug efter att gå på, kan du trycka på ”Next Level” -knappen. I händelse av att du inte har träffat din nivå mål blir det Gameover.
+
+Shop innehåller många värdiga objekt:
+ - Dynamite: När du har gripit in något med din klo trycker dynamit område att kasta en bit av dynamit på det och blåser upp det
+ - Styrka Dricker: gruvarbetaren kommer att rulla upp föremål lite snabbare på nästa nivå. Drycken varar endast en nivå
+- Lucky Clover: Detta kommer att öka chanserna att få något bra ur grab påsar på nästa nivå. Detta är bara bra för en nivå
+- Rock Collector bok: Rocks kommer att vara värt tre gånger så mycket pengar på nästa nivå. Detta är bara bra för en nivå.
+- Diamond polska: Under nästa nivå diamanterna kommer att vara värt mer pengar. Bara bra för en nivå
 
 FUNKTIONER:
-- Beroendeframkallande gameplay
-- 30 unika nivåer men att spela i all oändlighet för att få en hög poäng
-- Vacker grafik och ett användarvänligt gränssnitt
-- Dynamiskt ljud och musik
-- Ladda / spara spel, återuppta senaste spel
-- Massor av prestationer
-- Global och Facebook / Google + vänner leaderboard
-- Stöder 26 språk
-- Cloud spara
-- Spela med vänner: Facebook inbjudan; dela med sig; skicka dynamit, guldtackor, och tiden (sekunder)
-- Snurra tur hjulet, spelmaskin för att få en belöning
-- Dagliga belöningar
-- Tillbringa guldtackor att spela om du misslyckas
++ Beroendeframkallande gameplay, känner guldrusch
++ 30 unika nivåer men att spela i all oändlighet för att få en hög värdering
++ Klassiska grafik för klassiska spelet med ett användarvänligt gränssnitt
++ Dynamiskt ljud och musik
++ Massor av framgångar
++ Global leader
++ Stöder 26 språk
++ Snurra tur hjulet, spelmaskin för att få en belöning
++ Dagliga belöningar
++ 6 kyler gruvarbetare tecken
 
-KONTAKTA OSS:
-- Besök vår officiella hemsida på http://www.senspark.com
-- Skicka feedback via feedback@senspark.com
-- Som och följ på https://www.facebook.com/TeamSenspark
-
-Gold Miner är ett spel för Android som ger dig kontroll över en gammal malmletare söker guld och allt annat som kommer att göra honom pengar. Det är ett spel mestadels byggd kring timing, och du måste samla tillräckligt med pengar för att möta nivåns mål för att gå vidare till nästa nivå. Som Android spel går, är Gold Miner kanske något som tilltalar mer till casual games snarare än dem som letar efter sin nästa stora spel. Med färgglad grafik och några engagerande musik i bakgrunden men kan Gold Miner vara arkadspel som du har väntat på.
-
-Så fungerar det: Du kommer att få en snabb introduktion om hur man spelar spelet och egentligen finns det bara ett fåtal saker att komma ihåg vilket är trevligt.
-
-Klon kommer svaja från sida till sida och när du trycker på skärmen det ska dyka ner i gropen på den vinkel du stoppade den på.
-
-Tanken är att plocka upp något av värde för att lägga till din totala. För att nå nästa nivå, måste du gå för stora bitar av guld, eller se vad som finns inuti dessa lyckliga påsar.
-
-Om du når nästa nivå, kommer du att kunna köpa power-ups innan du börjar på din nästa samling av guld, en fin touch samt.
-
-Gold Miner är verkligen inte vad jag skulle kalla det mest spännande spel till Android ute, men det är en trevlig lite roligt. Spelet går bra och smidigt och det finns en naturlig utveckling, också. Som du huvudet på genom nivåerna, kommer du att stöta svårare situationer, som att plocka en diamant av en grupp av låga klippor. Power-ups är en fin touch och verkligen hjälpa dig att dra upp de stora pengar bitar av guld och totalt sett är det bara en trevlig och enkelt spel som kan vara kul för alla åldrar och kunskapsnivåer.
-
-- Gold Miner fungerar bra och kan köras på även low-end hårdvara trevlig och snabbt.
-- Det kanske inte verkar som fullutrustad, men det är en mycket roligt och kommer att tilltala spelare i alla åldrar, oavsett deras kompetensnivå.
-- För att se fler högupplösta tillgångar som används här skulle vara trevligt, men det finns absolut inget fel med hur Gold Miner ser på antingen smartphone eller surfplatta.
-- En solid spel som tilltalar mer till vanliga användare och kanske en yngre publik, Gold Miner inte begära för mycket av användaren och bara levererar ett roligt och enkelt spel att njuta av.
+SENSPARK Game Studio är studion bakom framgången med början Hämta tillfälliga klassiska spel: Shoot Dinosaur ägg, Linje 98, Vietnam Poker ...
