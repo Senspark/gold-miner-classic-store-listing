@@ -1,1 +1,1 @@
-dao,vang,kinh,dien,hd,2017,đôi,doi,kim,cuong,ban,trung,cương,bắn,trứng,pikachu,ai,la,trieu,phu,2017
+dao,vang,game,offline,kinh,dien,hd,đôi,kim,cuong,ban,trung,bắn,trứng,pikachu,ai,la,trieu,phu,2017
