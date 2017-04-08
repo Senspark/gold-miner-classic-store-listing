@@ -1,35 +1,19 @@
-Gullgraver, også kalt gullrushet spillet, er en uformell klassiske spillet som gjorde deg avhengig når du spiller.
+Gold, diamonds, and dynamite? That's right, you're a goldminer and it's your job to mine as much gold as you can and come out with the most money. Are you ready?
 
-Gull, diamanter og dynamitt? Det er riktig, du er en goldminer og det er din jobb å utvinne så mye gull som du kan og komme ut med mest penger. Er du klar? Tid til Goldrush!
 
-Dette Gold miner, Gold Rush spillet, er nøyaktig den samme som den tilgjengelige elektroniske versjonen! Klasik klassiske klassiske spillet er alltid best! old school super klassisk gullgraver spill
-
-gameplay:
-Utnytte klo og snelle å utvinne gull og forskjellige formuer ut av jorden. Din klo vil svinge frem og tilbake. Trykk skjermen for å senke det. Når den har fanget noe det vil sveiv opp. Overveldende elementer som steiner og store deler av gull vil være vanskeligere å hjul opp. Få poser inneholde vilkårlige mengder kontanter, en styrke power-up, eller en stokk med dynamitt. Mellom nivåene kan du kjøpe ting som kan hjelpe deg.
-
-Mus, stein, skull, bein er nådeløse hindringer mot å grave og grip. Gullprisen, diamant pris, stein pris og andre elementer prisen venter du oppdagelse
-
-Samle målet mye penger før slutten av nivået. På off sjanse for at du ikke oppfyller målet før utgangen av nivået er det game over. Kontanter fortsetter å starte med en nivå deretter til den neste.
-
-På off sjanse for at du uforvarende eksplodere alt på et nivå eller du bare har en craving for å gå på, kan du trykke på “Next Level” knappen. I tilfelle du ikke har møtt ditt nivå mål det blir gameover.
-
-Butikken inneholder mange verdige elementer:
- - Dynamite: Når du har fanget inn noe med klo, trykker dynamitt området for å kaste et stykke dynamitt på det og blåse den opp
- - Styrke drikk: Gruvearbeideren vil hjul opp gjenstander litt raskere på neste nivå. Drikken varer bare i ett plan
-- Lucky Clover: Dette vil øke sjansene for å få noe godt ut av grip poser på neste nivå. Dette er bare bra for en nivå
-- Rock Collector bok: Rocks vil være verdt tre ganger så mye penger på neste nivå. Dette er bare bra for ett plan.
-- Diamond polsk: I løpet av de neste nivå diamanter vil være verdt mer penger. Bare bra for en nivå
-
-EGENSKAPER:
-+ Vanedannende gameplay, føler gullrushet
-+ 30 unike nivåer, men å spille uendelige for å få en høy poengsum
-+ Classic grafikk for klassiske spillet med et brukervennlig grensesnitt
-+ Dynamisk lyd og musikk
-+ Tonnevis av prestasjoner
+FEATURES:
++ Addictive gameplay, feel gold rush
++ 30 unique levels but playing endlessly to get a high score
++ Classic graphics for classic game with a friendly user interface 
++ Dynamic sound and music
++ Tons of achievements
 + Global leaderboard
-+ Støtter 26 språk
-+ Spinn heldig hjulet, spilleautomaten for å få en belønning
-+ Daglig belønninger
-+ 6 kule miner tegn
++ Supports 26 languages
++ Spin the lucky wheel, slot machine to get a reward
++ Daily rewards
++ 6 cool miner characters
 
-SENSPARK Game Studio er studioet bak suksessen til toppen Last ned tilfeldige klassiske spill: Shoot Dinosaur Egg, Line 98, Vietnam Poker ...
+CONTACT US:
+- Visit our official site at http://www.senspark.com
+- Send your feedback via feedback@senspark.com
+- Like & follow on https://www.facebook.com/TeamSenspark

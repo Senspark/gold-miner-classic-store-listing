@@ -1,1 +1,1 @@
-rush,dig,classic,dynamite,dynomite,mouse,diamond,stone,skull,claw,game,dynomites,diamonds,2,3,5,2017
+mining,rush,dig,dynamite,dynomite,mouse,diamond,stone,skull,claw,game,dynomites,diamonds,2,3,5,2017

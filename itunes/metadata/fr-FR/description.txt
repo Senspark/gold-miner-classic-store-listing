@@ -1,35 +1,19 @@
-mineur d'or, également appelé jeu de ruée vers l'or, est un jeu classique décontracté qui vous a fait accro lorsque vous jouez.
+Gold, diamonds, and dynamite? That's right, you're a goldminer and it's your job to mine as much gold as you can and come out with the most money. Are you ready?
 
-Or, diamants, et de la dynamite? C'est vrai, vous êtes un goldminer et il est votre travail à la mine autant d'or que vous pouvez et sortir avec le plus d'argent. Es-tu prêt? Il est temps de Goldrush!
 
-Ce mineur d'or, le jeu ruée vers l'or, est exactement la même que la version disponible en ligne! jeu classique klasik classique sont toujours le meilleur! vieux jeu de pelle super or classique de l'école
+FEATURES:
++ Addictive gameplay, feel gold rush
++ 30 unique levels but playing endlessly to get a high score
++ Classic graphics for classic game with a friendly user interface 
++ Dynamic sound and music
++ Tons of achievements
++ Global leaderboard
++ Supports 26 languages
++ Spin the lucky wheel, slot machine to get a reward
++ Daily rewards
++ 6 cool miner characters
 
-GAMEPLAY:
-Utiliser votre griffe et bobine à la mine d'or et de fortunes différentes de la terre. Votre griffe se balancer vers l'avant et vers l'arrière. Appuyez sur l'écran pour l'abaisser. Quand il a attrapé quelque chose il dévide vers le haut. articles écrasantes comme des roches et d'énormes morceaux d'or seront plus difficiles à enrouler vers le haut. Obtenir des sacs contiennent des quantités arbitraires d'argent, un pouvoir prendre des forces, ou un bâton de dynamite. Entre les niveaux, vous pouvez acheter des choses qui peuvent vous aider.
-
-Souris, la pierre, le crâne, les os sont des obstacles implacables contre vous de creuser et de saisir. Prix ​​de l'or, le prix du diamant, le prix de la pierre et d'autres prix des articles vous attendent découverte
-
-Recueillir le montant objectif de l'argent avant la fin du niveau. Au hasard que vous ne remplissez pas votre objectif avant la fin du niveau le jeu est fini. Votre argent continue à commencer par un niveau, puis sur l'autre.
-
-Au hasard que vous exploser par inadvertance tout sur un niveau ou si vous avez simplement envie de passe, vous pouvez appuyer sur le bouton « Next Level ». Dans le cas où vous ne l'avez pas atteint votre niveau objectif, il sera gameover.
-
-Boutique contient de nombreux éléments dignes:
- - Dynamite: Après avoir accrocha quelque chose avec votre griffe, touchez la zone de la dynamite pour jeter un morceau de dynamite et sauter
- - Force Boisson: Le mineur se dévider des objets un peu plus vite sur le prochain niveau. La boisson ne dure que d'un niveau
-- Lucky Clover: Cela augmentera les chances d'obtenir quelque chose de bien des sacs sur le grab niveau suivant. Ceci est seulement bon pour un niveau
-- livre rock Collector: Rocks sera vaut trois fois plus d'argent au niveau suivant. Ceci est seulement bon pour un seul niveau.
-- Diamond polonais: Au cours des prochains diamants niveau vaudront plus d'argent. Bon pour un niveau
-
-FONCTIONNALITÉS:
-+ Un jeu passionnant, se sentir ruée vers l'or
-+ 30 niveaux uniques, mais jouer à l'infini pour obtenir un score élevé
-+ Graphiques classiques pour jeu classique avec une interface utilisateur conviviale
-+ Un son dynamique et de la musique
-+ Des tonnes de réalisations
-+ Leaderboard mondial
-+ 26 langues
-+ Faites tourner la roue de la chance, machine à sous pour obtenir une récompense
-+ récompenses quotidiennes
-+ 6 caractères mineur frais
-
-SENSPARK Game Studio est le studio derrière le succès des jeux classiques occasionnels télécharger le dessus: Pousse œuf de dinosaure, ligne 98, Vietnam Poker ...
+CONTACT US:
+- Visit our official site at http://www.senspark.com
+- Send your feedback via feedback@senspark.com
+- Like & follow on https://www.facebook.com/TeamSenspark
